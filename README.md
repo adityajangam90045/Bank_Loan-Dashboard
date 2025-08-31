@@ -48,6 +48,6 @@ Cash flow view: Compare Total Funded vs Total Received to watch recovery and pro
 Operational levers: Identify high-risk pockets by purpose/grade/state and adjust pricing, limits, or verification rules.
 Recent momentum: MTD/MoM helps spot acceleration/slowdowns early, enabling faster interventions.
 
-Screenshots https://github.com/adityajangam90045/Bank_Loan-Dashboard/blob/main/Bank_dashboard.pdf
+6)Screenshots https://github.com/adityajangam90045/Bank_Loan-Dashboard/blob/main/Bank_dashboard.pdf
 
 
